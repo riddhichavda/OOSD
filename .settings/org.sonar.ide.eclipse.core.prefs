@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+extraProperties=sonar.dynamicAnalysis\=reuseReports\r\nsonar.java.coveragePlugin\=jacoco\r\nsonar.jacoco.itReportPath\=/Users/arpitkhandelwal/git/oosd-project/team3/target/jacoco-it.exec\r\nsonar.jacoco.reportPath\=/Users/arpitkhandelwal/git/oosd-project/team3/target/jacoco-ut.exec
+lastAnalysisDate=1480640357204
+projectKey=org.p532\:fall2016_a9_team3\:master
+serverUrl=http\://tintin.cs.indiana.edu\:9000
+version=2

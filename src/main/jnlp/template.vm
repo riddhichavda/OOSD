@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://fluency.knownspace.org/student-files/fall2016/a9/fall2016_a9_team3/" href="$outputFile">
+ <information>
+   <title>Hello World</title>
+   <vendor>P532</vendor>
+    <homepage href="http://fluency.knownspace.org/confluence"/>
+    <description>Testing...</description>   
+    <description kind="short"></description>
+    <icon href="kslogo.gif" />
+ </information>
+  <offline-allowed />
+  <security>
+      <all-permissions />
+  </security>
+  <resources>
+    <j2se version="1.6+" />
+    <jar href="fall2016_a9_team3-0.1.jar" />
+  </resources>
+ <application-desc main-class="$mainClass">
+ </application-desc>
+</jnlp>
